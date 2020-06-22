@@ -1,0 +1,4 @@
+www.youtube.com##YTD-COMPANION-SLOT-RENDERER[class="style-scope ytd-player-legacy-desktop-watch-ads-renderer"]
+twitter.com##DIV[class="css-1dbjc4n r-1uaug3w r-1uhd6vh r-t23y2h r-1phboty r-rs99b7 r-ku1wi2 r-1udh08x"]
+@@||descomplica.com.br/$document
+@@||www.netflix.com/$document
