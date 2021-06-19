@@ -1,2 +1,3 @@
+[Adblock Plus 3.1]
 m.youtube.com##.large-media-item-thumbnail-container
 m.youtube.com##.cbox
